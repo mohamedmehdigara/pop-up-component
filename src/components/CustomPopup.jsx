@@ -1,5 +1,6 @@
 
-import { React, useEffect, useState, popupCloseHandler, visibility } from "react";
+import { useEffect, useState, popupCloseHandler, visibility } from "react";
+ import * as  React from "react";
 import popupStyles from "./custom-popup.module.css";
 import PropTypes from "prop-types";
 const CustomPopup = (props) => {
